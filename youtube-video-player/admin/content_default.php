@@ -3,6 +3,8 @@ class youtube_embed_content_default{
 	private $menu_name;
 	private $databese_names;
 	public  $initial_values;
+	public  $plugin_url;
+	public  $plugin_path;
 	
     /*############ The construct Function ##################*/
 	

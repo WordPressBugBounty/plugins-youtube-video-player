@@ -3,6 +3,8 @@
     /*#################### Hire an Expert page ########################*/
 	
 class youtube_embed_hire_expert{
+	public $plugin_url;
+	public $plugin_path;
 
     /*############ Construct Function ##################*/
 	

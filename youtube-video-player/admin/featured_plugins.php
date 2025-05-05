@@ -3,6 +3,8 @@
     /*#################### Featured plugins page ########################*/
 	
 class youtube_embed_featured_plugins{
+	public $plugin_url;
+	public $plugin_path;
 
     /*############ The construct Function ##################*/
 	

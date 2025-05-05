@@ -1,8 +1,8 @@
 <?php
 class youtube_embed_widget_default{
-	private $menu_name;
-	private $databese_names;
 	public  $initial_values;
+	public $plugin_url;
+	public $plugin_path;
 	
 	/*############ Construct Function ##################*/
 	
